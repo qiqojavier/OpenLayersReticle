@@ -1,0 +1,9 @@
+.olControlReticle {
+	left:50%;
+	top:50%;
+	margin-left:-9px;
+	margin-top:-8px;
+	z-index:10000;
+	width:17px;
+	height:17px;
+}
