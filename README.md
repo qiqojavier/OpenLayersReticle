@@ -1,4 +1,4 @@
 OpenLayersReticle
 =================
 
-Recticle Control that stays on the center for OpenLayers
+Recticle Control that stays at the center of the OpenLayers map
